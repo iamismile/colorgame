@@ -1,13 +1,13 @@
 #RGB Color Guessing Game
 
-** Intro **
+**Intro**
 
 In this project you have to choose the correct rgb color box from the provided box. It inculdes easy mode as well as hard mode.
 
-** Component **
+**Component**
 
 It has only html, css & javascript files.
 
-** Steps **
+**Steps**
 
-To play the game go to this URL (https://codepen.io/iamismile/pen/MdvJbM)
+To play the game click the link [Play](https://codepen.io/iamismile/pen/MdvJbM)
